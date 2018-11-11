@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:2:11-39
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:1-10:12
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:4:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:5:22-65
+application
+ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:7:5-9:19
+service#org.arxing.library.AssistiveService
+ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:8:9-52
+	android:name
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml:8:18-50
+uses-sdk
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+		ADDED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
+		INJECTED from W:\as-workspace\AxLib\AssistiveTouchView\library\src\main\AndroidManifest.xml
